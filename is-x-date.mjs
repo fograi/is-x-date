@@ -1,8 +1,6 @@
 const now = new Date(Date.now());
 
-const nowM = now.getMonth();
-const nowD = now.getDate();
-const nowMD = `${nowM}-${nowD}`;
+const nowMD = `${now.getMonth()}-${now.getDate()}`;
 
 export function newYearsDay() {
     return nowMD === "0-1";

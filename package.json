@@ -1,0 +1,22 @@
+{
+  "name": "is-x-date",
+  "version": "0.0.0-alpha",
+  "description": "Evaluate common dates such as Christmas Day and New Year's Eve",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fograi/is-x-date.git"
+  },
+  "keywords": [
+    "dates"
+  ],
+  "author": "Marty McFly <dev@fogr.ai> (fogr.ai)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fograi/is-x-date/issues"
+  },
+  "homepage": "https://github.com/fograi/is-x-date#readme",
+}

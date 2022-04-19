@@ -1,6 +1,9 @@
 const now = new Date(Date.now());
 
 const nowMD = `${now.getMonth()}-${now.getDate()}`;
+const nowM = now.getMonth();
+const nowDt = now.getDate();
+const nowDy = now.getDay();
 
 export function newYearsDay() {
     return nowMD === "0-1";
@@ -21,6 +24,11 @@ export function twelfthDayOfChristmas() {
 export function worldLogicDay() {
     return nowMD === "0-14";
 }
+
+export function birthdayOfMartinLutherKingJr() {
+    return nowM === 0 && (nowDt > 14 && nowDt < 22) && nowDy === 1;
+}
+
 export function internationalDayOfEducation() {
     return nowMD === "0-24";
 }

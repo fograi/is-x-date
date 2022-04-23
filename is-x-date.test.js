@@ -1,4 +1,6 @@
-import { birthdayOfMartinLutherKingJr } from "./is-x-date";
+import {
+  birthdayOfMartinLutherKingJr
+} from "./is-x-date";
 import {
   BirthdayOfMartinLutherKingJunior,
   NotBirthdayOfMartinLutherKingJunior,
@@ -17,7 +19,6 @@ afterEach(() => {
 
 test("is Birthday Of Martin Luther King Junior", () => {
   BirthdayOfMartinLutherKingJunior.forEach((birthday) => {
-    console.log(birthday);
     jest.setSystemTime(new Date(birthday));
     expect(birthdayOfMartinLutherKingJr()).toEqual(true);
   });

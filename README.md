@@ -103,6 +103,21 @@ March 1
 
 March 3
 
+## 🐻‍❄️ `worldWildLifeDay()`
+
+March 3
+
+## ♾ `worldObesityDay()`
+
+March 4
+
+## 😇 `europeanDayOfTheRighteous()`
+
+March 6
+
+
+
+
 
 
 

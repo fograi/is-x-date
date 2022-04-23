@@ -70,3 +70,27 @@ February 11
 ## 🧬 `darwinDay()`
 
 February 12
+
+## 🙅 `redHandDay()`
+
+February 12
+
+## 📻 `worldRadioDay()`
+
+February 12
+
+## 💌 `valentinesDay()`
+
+February 14
+
+## 🧑‍⚖️ `worldDayOfSocialJustice()`
+
+February 20
+
+## 🤵‍♂️ `bachelorsDay()`
+
+February 29
+
+## 🟰 `zeroDiscriminationDay()`
+
+March 1

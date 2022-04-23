@@ -77,9 +77,11 @@ export function darwinDay() {
 export function redHandDay() {
     return nowMD() === "1-12";
 }
+
 export function worldRadioDay() {
     return nowMD() === "1-12";
 }
+
 export function valentinesDay() {
     return nowMD() === "1-14";
 }

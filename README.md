@@ -94,3 +94,15 @@ February 29
 ## 🟰 `zeroDiscriminationDay()`
 
 March 1
+
+## 😩 `selfInjuryAwarenessDay()`
+
+March 1
+
+## 👂 `worldHearingDay()`
+
+March 3
+
+
+
+

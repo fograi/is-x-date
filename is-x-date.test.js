@@ -25,8 +25,8 @@ test("is Birthday Of Martin Luther King Junior", () => {
 });
 
 test("is Not Birthday Of Martin Luther King Junior", () => {
-  NotBirthdayOfMartinLutherKingJunior.forEach((birthday) => {
-    jest.setSystemTime(new Date(birthday));
+  NotBirthdayOfMartinLutherKingJunior.forEach((notBirthday) => {
+    jest.setSystemTime(new Date(notBirthday));
     expect(birthdayOfMartinLutherKingJr()).toEqual(false);
   });
 });

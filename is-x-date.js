@@ -73,6 +73,7 @@ export function european112Day() {
 export function darwinDay() {
     return nowMD() === "1-12";
 }
+
 export function redHandDay() {
     return nowMD() === "1-12";
 }

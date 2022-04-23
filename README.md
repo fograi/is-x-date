@@ -54,3 +54,19 @@ February 2
 ## ♋ `worldCancerDay()`
 
 February 4
+
+## 🫂 `internationalDayOfHumanFraternity()`
+
+February 4
+
+## ♀ `internationalDayOfZeroToleranceForFemaleGenitalMutilation()`
+
+February 6
+
+## 🚨 `european112Day()`
+
+February 11
+
+## 🧬 `darwinDay()`
+
+February 12

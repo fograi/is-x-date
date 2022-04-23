@@ -50,3 +50,7 @@ February 2
 ## 🦩 `worldWetlandsDay()`
 
 February 2
+
+## ♋ `worldCancerDay()`
+
+February 4

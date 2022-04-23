@@ -38,3 +38,13 @@ January 27
 ## 🔐 `dataPrivacyDay()`
 
 January 28
+
+## 🍄 `imbolc()`
+
+February 1
+
+## 🐾 `groundHogDay()`
+
+February 2
+
+## `worldWetlandsDay()`

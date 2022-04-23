@@ -47,4 +47,6 @@ February 1
 
 February 2
 
-## `worldWetlandsDay()`
+## 🦩 `worldWetlandsDay()`
+
+February 2

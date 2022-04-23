@@ -7,8 +7,34 @@ Evaluate common dates such as Christmas Day and New Year's Eve
 December 31
 ## 🤢 `newYearsDay()`
 
-Janaury 1
+January 1
 
 ## ⚫ `worldBrailDay()`
 
-Janaury 4
+January 4
+
+## 🎄 `twelfthDayOfChristmas()`
+
+January 5
+
+## ➕ `worldLogicDay()`
+
+January 14
+
+## 👑 `birthdayOfMartinLutherKingJr()`
+
+Third Monday in January.
+
+Between January 15 and January 21, inclusive.
+
+## 🧑‍🏫 `internationalDayOfEducation()`
+
+January 24
+
+## ✡ `internationalHolocaustRemembranceDay()`
+
+January 27
+
+## 🔐 `dataPrivacyDay()`
+
+January 28

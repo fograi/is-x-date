@@ -4,7 +4,7 @@ import packageJson from "./package.json";
 import { terser } from "rollup-plugin-terser";
 import filesize from "rollup-plugin-filesize";
 export default {
-  input: "./src/index.ts",
+  input: "./src/is-x-date.ts",
   output: [
     {
       file: packageJson.main,

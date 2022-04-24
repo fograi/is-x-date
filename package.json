@@ -1,6 +1,6 @@
 {
   "name": "is-x-date",
-  "version": "0.0.0-alpha.0",
+  "version": "0.0.0-alpha.1",
   "description": "Evaluate common dates such as Christmas Day and New Year's Eve",
   "browser": "dist/web.is-x-date.js",
   "main": "dist/is-x-date.js",

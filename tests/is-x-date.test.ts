@@ -4,7 +4,7 @@ import {
 import {
   BirthdayOfMartinLutherKingJunior,
   NotBirthdayOfMartinLutherKingJunior,
-} from "../src/dates";
+} from "./dates";
 
 beforeEach(() => {
   expect(new Date(Date.now()).getFullYear()).toBeGreaterThanOrEqual(2022);

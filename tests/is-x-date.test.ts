@@ -1,10 +1,10 @@
 import {
   birthdayOfMartinLutherKingJr
-} from "./is-x-date";
+} from "../src/is-x-date";
 import {
   BirthdayOfMartinLutherKingJunior,
   NotBirthdayOfMartinLutherKingJunior,
-} from "./dates";
+} from "../src/dates";
 
 beforeEach(() => {
   expect(new Date(Date.now()).getFullYear()).toBeGreaterThanOrEqual(2022);

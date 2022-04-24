@@ -119,6 +119,34 @@ March 6
 
 March 8
 
+## 🎮 `marioDay()`
+
+March 10
+
+## 🚫 `worldDayAgainstCyberCensorship()`
+
+March 12
+
+## 𝞹 `piDay()`
+
+March 14
+
+## 🛒 `worldConsumerRightsDay()`
+
+March 15
+
+## ☘️ St. Patrick's Day
+
+March 17
+
+## 😊 `internationalDayOfHappiness()`
+
+March 20
+
+
+
+
+
 
 
 

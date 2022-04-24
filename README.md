@@ -2,6 +2,29 @@
 
 Evaluate common dates such as Christmas Day and New Year's Eve
 
+## Usage
+
+```js
+// CommonJS
+const IsXDate = require('is-x-date');
+// ES Modules
+// Load full library
+import * as IsXDate from "is-x-date";
+// Load individual function(s)
+import { newYearsEve, newYearsDay, ... } from "is-x-date";
+// Browser ES Modules
+<script type="module" src="/path/to/is-x-date.es.js"></script>
+<script type="module">
+  import IsXDate from '/path/to/is-x-date.es.js';
+  
+  IsXDate.isNewYearsEve();
+  // 0-23
+</script>
+// Browser UMD
+<script type="module" src="/path/to/is-x-date.es.js"></script>
+<script nomodule defer src="/path/to/web.is-x-date.js"></script>
+```
+
 ## 🍾 `newYearsEve()`
 
 December 31

@@ -210,14 +210,18 @@ March 27
 
 March 31
 
+## 🃏 `aprilFoolsDay()`
 
+April 1
 
+## 🏭 `fossilFoolsDay()`
 
+April 1
 
+## 📚 `internationalChildrensBookDay()`
 
+April 2
 
+## ♾ `worldAutismAwarenessDay()`
 
-
-
-
-
+April 2

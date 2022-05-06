@@ -188,3 +188,19 @@ export function worldTheatreDay() {
 export function internationalTransgenderDayOfVisibility() {
   return nowMD() === "2-31";
 }
+
+export function aprilFoolsDay() {
+  return nowMD() === "3-1";
+}
+
+export function fossilFoolsDay() {
+  return nowMD() === "3-1";
+}
+
+export function internationalChildrensBookDay() {
+  return nowMD() === "3-2";
+}
+
+export function worldAutismAwarenessDay() {
+  return nowMD() === "3-2";
+}

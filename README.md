@@ -204,11 +204,11 @@ March 25
 
 ## 🎭 `worldTheatreDay()`
 
-March 25
+March 27
 
 ## 🏳️‍⚧️ `internationalTransgenderDayOfVisibility()`
 
-March 25
+March 31
 
 
 

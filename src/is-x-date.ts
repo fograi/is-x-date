@@ -144,3 +144,47 @@ export function stPatricksDay() {
 export function internationalDayOfHappiness() {
   return nowMD() === "2-20";
 }
+
+export function internationalColourDay() {
+  return nowMD() === "2-21";
+}
+
+export function worldWaterDay() {
+  return nowMD() === "2-22";
+}
+
+export function worldMeteorologicalDay() {
+  return nowMD() === "2-23";
+}
+
+export function internationalDayForTheRightToTheTruthConcerningGrossHumanRightsViolationsAndForTheDignityOfVictims() {
+  return nowMD() === "2-24";
+}
+
+export function euTalentDay() {
+  return nowMD() === "2-25";
+}
+
+export function internationalDayOfRemembranceOfTheVictimsOfSlaveryAndTheTransatlanticSlaveTrade() {
+  return nowMD() === "2-25";
+}
+
+export function internationalDayOfSolidarityWithDetainedAndMissingStaffMembers() {
+  return nowMD() === "2-25";
+}
+
+export function internationalDayOfTheUnbornChild() {
+  return nowMD() === "2-25";
+}
+
+export function tolkienReadingDay() {
+  return nowMD() === "2-25";
+}
+
+export function worldTheatreDay() {
+  return nowMD() === "2-27";
+}
+
+export function internationalTransgenderDayOfVisibility() {
+  return nowMD() === "2-31";
+}

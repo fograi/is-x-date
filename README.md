@@ -166,6 +166,50 @@ March 17
 
 March 20
 
+## 🎨 `internationalColourDay()`
+
+March 21
+
+## 💙 `worldWaterDay()`
+
+March 22
+
+## 🌈 `worldMeteorologicalDay()`
+
+March 23
+
+## ⚖️ `internationalDayForTheRightToTheTruthConcerningGrossHumanRightsViolationsAndForTheDignityOfVictims()`
+
+March 24
+
+## 🤹🏼 `euTalentDay()`
+
+March 25
+
+## ⛓ `internationalDayOfRemembranceOfTheVictimsOfSlaveryAndTheTransatlanticSlaveTrade()`
+
+March 25
+
+## 🕵️‍♀️ `internationalDayOfSolidarityWithDetainedAndMissingStaffMembers()`
+
+March 25
+
+## 🤰🏼 `internationalDayOfTheUnbornChild()`
+
+March 25
+
+## 🧙‍♂️ `tolkienReadingDay()`
+
+March 25
+
+## 🎭 `worldTheatreDay()`
+
+March 25
+
+## 🏳️‍⚧️ `internationalTransgenderDayOfVisibility()`
+
+March 25
+
 
 
 

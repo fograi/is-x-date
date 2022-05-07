@@ -257,3 +257,11 @@ April 11
 ## 💟 `worldParkinsonsDay()`
 
 April 11
+
+## 🎻 `universalDayOfCulture()`
+
+April 15
+
+## 👩🏻‍🎨 `worldArtDay()`
+
+April 15

@@ -236,3 +236,11 @@ export function internationalLouieLouieDay() {
 export function worldParkinsonsDay() {
   return nowMD() === "3-11";
 }
+
+export function universalDayOfCulture() {
+  return nowMD() === "3-15";
+}
+
+export function worldArtDay() {
+  return nowMD() === "3-15";
+}

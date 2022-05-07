@@ -225,3 +225,35 @@ April 2
 ## ♾ `worldAutismAwarenessDay()`
 
 April 2
+
+## 🕊️ `internationalDayOfSportForDevelopmentAndPeace()`
+
+April 6
+
+## 💜 `internationalAsexualityDay()`
+
+April 6
+
+## 🌍 `worldHealthDay()`
+
+April 7
+
+## ☸️ `buddhasBirthday()`
+
+April 8
+
+## 💙‍☸️‍💚 `internationalRomaniDay()`
+
+April 8
+
+## 👨🏻‍🤝‍👨🏽 `siblingsDay()`
+
+April 10
+
+## 🎸 `internationalLouieLouieDay()`
+
+April 11
+
+## 💟 `worldParkinsonsDay()`
+
+April 11

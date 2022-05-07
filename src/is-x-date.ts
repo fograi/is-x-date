@@ -204,3 +204,35 @@ export function internationalChildrensBookDay() {
 export function worldAutismAwarenessDay() {
   return nowMD() === "3-2";
 }
+
+export function internationalDayOfSportForDevelopmentAndPeace() {
+  return nowMD() === "3-6";
+}
+
+export function internationalAsexualityDay() {
+  return nowMD() === "3-6";
+}
+
+export function worldHealthDay() {
+  return nowMD() === "3-7";
+}
+
+export function buddhasBirthday() {
+  return nowMD() === "3-8";
+}
+
+export function internationalRomaniDay() {
+  return nowMD() === "3-8";
+}
+
+export function siblingsDay() {
+  return nowMD() === "3-10";
+}
+
+export function internationalLouieLouieDay() {
+  return nowMD() === "3-11";
+}
+
+export function worldParkinsonsDay() {
+  return nowMD() === "3-11";
+}

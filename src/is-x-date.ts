@@ -305,6 +305,14 @@ export function internationalSunflowerGuerrillaGardeningDay() {
   return nowMD() === "4-1";
 }
 
+export function mayDay() {
+  return nowMD() === "4-1";
+}
+
+export function bealtaine() {
+  return nowMD() === "4-1";
+}
+
 export function dayOfRemembranceForAllVictimsOfChemicalWarfare() {
   return nowMD() === "10-30";
 }

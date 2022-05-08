@@ -28,6 +28,7 @@ import { newYearsEve, newYearsDay, ... } from "is-x-date";
 ## 🍾 `newYearsEve()`
 
 December 31
+
 ## 🤢 `newYearsDay()`
 
 January 1
@@ -265,3 +266,63 @@ April 15
 ## 👩🏻‍🎨 `worldArtDay()`
 
 April 15
+
+## 🗣 `worldVoiceDay()`
+
+April 16
+
+## 🩸 `worldHemophiliaDay()`
+
+April 17
+
+## 🗿 `internationalDayForMonumentsAndSites()`
+
+April 18
+
+## 🦨 `$420()`
+
+April 20
+
+## 🦨 `grounationDay()`
+
+April 21
+
+## 🌏 `earthDay()`
+
+April 22
+
+## 🧎🏼‍♂️ `internationalPixelStainedTechnopeasantDay()`
+
+April 23
+
+## 📖 `worldBookDay()`
+
+April 23
+
+## 👗 `fashionRevolutionDay()`
+
+April 24
+
+## 👗 `worldDayForLaboratoryAnimals()`
+
+April 24
+
+## 🦟 `worldMalariaDay()`
+
+April 25
+
+## ©️ `worldIntellectualPropertyDay()`
+
+April 25
+
+## 💃 `internationalDanceDay()`
+
+April 29
+
+## 🎷 `internationalJazzDay()`
+
+April 30
+
+## 🪖 `dayOfRemembranceForAllVictimsOfChemicalWarfare()`
+
+November 30

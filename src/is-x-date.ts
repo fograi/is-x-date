@@ -244,3 +244,63 @@ export function universalDayOfCulture() {
 export function worldArtDay() {
   return nowMD() === "3-15";
 }
+
+export function worldVoiceDay() {
+  return nowMD() === "3-16";
+}
+
+export function worldHemophiliaDay() {
+  return nowMD() === "3-17";
+}
+
+export function internationalDayForMonumentsAndSites() {
+  return nowMD() === "3-18";
+}
+
+export function $420() {
+  return nowMD() === "3-20";
+}
+
+export function grounationDay() {
+  return nowMD() === "3-21";
+}
+
+export function earthDay() {
+  return nowMD() === "3-22";
+}
+
+export function internationalPixelStainedTechnopeasantDay() {
+  return nowMD() === "3-23";
+}
+
+export function worldBookDay() {
+  return nowMD() === "3-23";
+}
+
+export function fashionRevolutionDay() {
+  return nowMD() === "3-24";
+}
+
+export function worldDayForLaboratoryAnimals() {
+  return nowMD() === "3-24";
+}
+
+export function worldMalariaDay() {
+  return nowMD() === "3-25";
+}
+
+export function worldIntellectualPropertyDay() {
+  return nowMD() === "3-26";
+}
+
+export function internationalDanceDay() {
+  return nowMD() === "3-29";
+}
+
+export function internationalJazzDay() {
+  return nowMD() === "3-30";
+}
+
+export function dayOfRemembranceForAllVictimsOfChemicalWarfare() {
+  return nowMD() === "10-30";
+}

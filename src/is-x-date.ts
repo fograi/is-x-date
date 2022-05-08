@@ -301,6 +301,10 @@ export function internationalJazzDay() {
   return nowMD() === "3-30";
 }
 
+export function internationalSunflowerGuerrillaGardeningDay() {
+  return nowMD() === "4-1";
+}
+
 export function dayOfRemembranceForAllVictimsOfChemicalWarfare() {
   return nowMD() === "10-30";
 }

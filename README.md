@@ -303,7 +303,7 @@ April 23
 
 April 24
 
-## 👗 `worldDayForLaboratoryAnimals()`
+## 🥼🐇 `worldDayForLaboratoryAnimals()`
 
 April 24
 
@@ -322,6 +322,18 @@ April 29
 ## 🎷 `internationalJazzDay()`
 
 April 30
+
+## 🌻 `internationalSunflowerGuerrillaGardeningDay()`
+
+May 1
+
+## 🛠 `mayDay()`
+
+May 1
+
+## 🔥 `bealtaine()`
+
+May 1
 
 ## 🪖 `dayOfRemembranceForAllVictimsOfChemicalWarfare()`
 
